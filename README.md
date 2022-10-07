@@ -27,13 +27,13 @@ https://github.com/ldiazssj3/Java-Challenge/blob/main/README.md
 ### Main Class
 src/main/java/com/tallertechnologies/challenges/Program.java (include static void main)
 
-###JUnit TC foor all Test cases:
+### JUnit TC foor all Test cases:
 src/test/com/tallertechnologies/challenges/ProgramTest.java (Execute as normal JunitTest)
 
-###Solution for the exercise using recurrency obtained from https://leetcode.com/problems/4sum/solution/   and modified to implement my interface.
+### Solution for the exercise using recurrency obtained from https://leetcode.com/problems/4sum/solution/   and modified to implement my interface.
 src/main/java/com/tallertechnologies/challenges/externalsolution/ExternalRecursiveSolution.java
 
-###Performance Comparator for my solution and external solution (include static void main)
+### Performance Comparator for my solution and external solution (include static void main)
 src/main/java/com/tallertechnologies/challenges/perfomance/PerformanceComparator.java
 
 This performance comparator generates n test, each one with 10^n randoms of integers as input array for each solution(Program.java  and ExternalRecursiveSolution.java).
